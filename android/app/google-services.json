@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "913747292919",
+    "project_id": "flutternotificacio",
+    "storage_bucket": "flutternotificacio.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913747292919:android:c6280362b82a132de2d9f2",
+        "android_client_info": {
+          "package_name": "com.example.laboratornaya_6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqTjOD1iMbKwDymC1b2BpuZ7ZAoJsbqPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
